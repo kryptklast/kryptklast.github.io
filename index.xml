@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Be Prepared</title>
+    <link>http://www.example.com/</link>
+    <description>Recent content on Be Prepared</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>kryptklast@gmail.com (kryptklast)</managingEditor>
+    <webMaster>kryptklast@gmail.com (kryptklast)</webMaster>
+    <copyright>(c) 2018</copyright>
+    <lastBuildDate>Sat, 05 May 2018 13:33:44 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Home</title>
+      <link>http://www.example.com/home/</link>
+      <pubDate>Sat, 05 May 2018 13:33:44 +0000</pubDate>
+      <author>kryptklast@gmail.com (kryptklast)</author>
+      <guid>http://www.example.com/home/</guid>
+      <description>Home page test.</description>
+    </item>
+    
+  </channel>
+</rss>
